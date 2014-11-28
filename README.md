@@ -1,4 +1,4 @@
-newsletter-builder
+Newsletter Builder
 ==================
 PHP/Javascript/HTML/CSS
 
