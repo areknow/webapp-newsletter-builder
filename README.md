@@ -1,4 +1,4 @@
-Newsletter Builder
+Newsletter Builder (Makers at OU branch)
 ==================
 PHP/Javascript/HTML/CSS
 
